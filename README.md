@@ -1,4 +1,4 @@
-# Django-Vue-Task-App
+# Django-Vue-ToDo-App
 
 - Task App Implementation using Django as BackEnd and Vue.js as FrontEnd.
 
