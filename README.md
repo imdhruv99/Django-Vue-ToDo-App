@@ -1,6 +1,6 @@
 # Django-Vue-ToDo-App
 
-- Task App Implementation using Django as BackEnd and Vue.js as FrontEnd.
+- ToDO App Implementation using Django as BackEnd and Vue.js as FrontEnd.
 
 ### Django Modules
 
